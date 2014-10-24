@@ -106,8 +106,10 @@ MySQL \textbullet{} regex \textbullet{} Android \textbullet{} \LaTeX\ \\
 
 \subsection{Software}
 FileMaker \textbullet{} Android Studio \\
-thinkorswim \textbullet{} Microsoft Office \\
-Pro Tools \\
+Microsoft Office \textbullet{} Pro Tools \\
+Bloomberg \textbullet{} FactSet \\
+thinkorswim \\
+
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -131,7 +133,8 @@ Pro Tools \\
 \location{August 2014 – Present | Los Angeles, CA}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Perform a weekly Asset Allocation, estimating the \$4 Billion Endowment portfolio's Month-to-Date performance
+\item Performed a weekly Asset Allocation, estimating the \$4 Billion Endowment portfolio's Month-to-Date performance
+\item Wrote Excel VBA Macros for a long term project analyzing fund manager correspondance and portfolio performance data
 \item Research, analyze, and compile information on securities, funds, and other pertinent data for Analyst review
 \item Record and Compile notes during, and after Fund Manager Meetings
 \end{tightemize}
@@ -141,8 +144,8 @@ Pro Tools \\
 \descript{| Software Engineering Intern }
 \location{May 2014 – Aug 2014 | Boston, MA (Remote) }
 \begin{tightemize}
-\item Co-Developed an MVP for an e-commerce Ruby on Rails website
-\item Extended, modified, and utilized the Open Source Spree Commerce E-Commerce platform
+\item Co-Developed an MVP for an e-commerce Ruby on Rails website within an agile team
+\item Extended and utilized the open source Spree Commerce Rails platform
 \item Implemented AJAX for dynamic web pages within the Rails application
 \item Developed algorithms for displaying and updating product information
 \item Designed Web pages with Twitter Bootstrap 3
@@ -169,7 +172,7 @@ shakeout.org website
 \runsubsection{Association for Computing Machinery} \\
 \descript{| University of Southern California ACM Chapter}
 \location{August 2013 – Present | Los Angeles, CA}
-Active Member of ACM participating in hackathons, developer tutorials, and other club opportunities
+Active Member of ACM participating in hackathons and developer tutorials, among other opportunities
 \sectionsep
 
 \runsubsection{Audio Engineering Society}
