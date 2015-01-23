@@ -56,11 +56,12 @@
 \subsection{University of} % Seperate on 2 lines to fit nicely
 \subsection{Southern California}
 \descript{BS in Computer Science/Business Administration}
-\location{Expected May 2017 | Los Angeles, CA}
+\location{May 2017 | Los Angeles, CA}
+\location{ GPA: 3.9 / 4.0 }
+\sectionsep
 Minor in Music Recording\\
 Viterbi School of Engineering \\
 Dean's List (All Semesters) \\
-\location{ GPA: 3.9 / 4.0 }
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -77,14 +78,15 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-Introduction to Programming \\
+Principles of Software Development \\
 Data Structures and Object-Oriented \\
 \hspace{1em} Design \\
 Discrete Methods in Computer Science \\
-Applied Linear Algebra for \\
-\hspace{1em} Engineering\\
+Applied Linear Algebra \\
 Introduction to Digital Logic \\
-Introduction to Microeconomics \\
+Microeconomics for Business \\
+Macroeconomics for Business \\
+Foundations of Accounting \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -95,11 +97,13 @@ Introduction to Microeconomics \\
 
 \subsection{Programming}
 \location{Over 5000 lines:}
-C++ \textbullet{} Java \textbullet{} Python (and Django) \\
-HTML \\ 
+C++ \textbullet{} Java  \\
+Python (and Django) \textbullet{} HTML \\ 
+\sectionsep
 \location{Over 1000 lines:}
-ruby (and Rails) \textbullet{} Javascript \textbullet{} CSS \\
-PHP \\
+ruby (and Rails) \textbullet{} Javascript \\
+CSS \textbullet{} PHP \\
+\sectionsep
 \location{Familiar:}
 MySQL \textbullet{} regex \textbullet{} Android \textbullet{} \LaTeX\ \\
 \sectionsep
@@ -128,8 +132,8 @@ thinkorswim \\
 
 \section{Experience}
 
-\runsubsection{University of Southern California Investment Office}
-\descript{| Investment Analyst Intern }
+\runsubsection{University of Southern California Investment Office} \\
+\descript{Investment Analyst Intern }
 \location{August 2014 – Present | Los Angeles, CA}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
@@ -140,9 +144,9 @@ thinkorswim \\
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Whaddy}
-\descript{| Software Engineering \& Web Development Intern }
-\location{May 2014 – Aug 2014 | Boston, MA (Remote) }
+\runsubsection{Whaddy} \\
+\descript{Software Engineering \& Web Development Intern }
+\location{May 2014 – August 2014 | Boston, MA (Remote) }
 \begin{tightemize}
 \item Co-Developed an MVP for an e-commerce Ruby on Rails website within an agile team
 \item Extended and utilized the open source Spree Commerce Rails platform
@@ -153,8 +157,8 @@ thinkorswim \\
 \sectionsep
 
 \runsubsection{Southern California Earthquake Center} \\
-\descript{| Web Design and Database Assistant}
-\location{Feb 2014 – May 2014 | Los Angeles, CA}
+\descript{Web Design and Database Assistant}
+\location{February 2014 – May 2014 | Los Angeles, CA}
 \begin{tightemize}
 \item Designed webpages for The Great Shakeout (shakeout.org) and other SCEC operated websites
 \item Manage and Maintain SCEC database for affiliated websites using FileMaker Pro, creating
@@ -170,21 +174,21 @@ shakeout.org website
 
 \section{Professional Involvement}
 \runsubsection{Association for Computing Machinery} \\
-\descript{| University of Southern California ACM Chapter}
+\descript{University of Southern California ACM Chapter}
 \location{August 2013 – Present | Los Angeles, CA}
 Active Member of ACM participating in hackathons and developer tutorials, among other opportunities
 \sectionsep
 
-\runsubsection{Audio Engineering Society}
-\descript{| Los Angeles Section, CA}
+\runsubsection{Audio Engineering Society} \\
+\descript{Los Angeles Section, CA}
 \location{October 2014 - Present}
 Student member of the Audio Engineering Society, disseminating and advancing knowledge in the 
 realm of audio engineering
 \sectionsep
 
 \runsubsection{Phi Kappa Phi National Honors Society} \\
-\descript{| University of Southern California}
-\location{May 2014 – Present | U.S.}
+\descript{University of Southern California}
+\location{May 2014 – Present | Los Angeles, CA}
 Top 8th percentile of the USC Class of 2017
 \sectionsep
 
