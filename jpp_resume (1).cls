@@ -9,7 +9,7 @@
 \LoadClass{article}
 
 % Package Imports
-\usepackage[hmargin=1.25cm, vmargin=0.6cm]{geometry}
+\usepackage[hmargin=1.25cm, vmargin=0.7cm]{geometry}
 \usepackage[usenames,dvipsnames]{xcolor}
 \usepackage{hyperref}
 \usepackage{titlesec}
@@ -41,23 +41,23 @@ Last Updated on
 
 % Name command
 \newcommand{\namesection}[3]{
-    \centering{
-        \sffamily
-        \fontspec{Helvetica Neue UltraLight}\fontsize{32pt}{10cm}\selectfont #1 
-        \fontspec{Helvetica Neue Light}\selectfont #2
-    } \\
-    \vspace{5pt}
-    \centering{ \color{headings}\fontspec{Heiti TC Medium}\fontsize{11pt}{14pt}\selectfont #3}
-    \noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
-    \vspace{-15pt}
+	\centering{
+		\sffamily
+		\fontspec{Helvetica Neue UltraLight}\fontsize{40pt}{10cm}\selectfont #1 
+		\fontspec{Helvetica Neue Light}\selectfont #2
+	} \\
+	\vspace{5pt}
+	\centering{ \color{headings}\fontspec{Heiti TC Medium}\fontsize{11pt}{14pt}\selectfont #3}
+	\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+	\vspace{-15pt}
 }
 \titlespacing{\section}{0pt}{0pt}{0pt}
 
 % Headings command
 \titleformat{\section}{\color{headings}
-\scshape\fontspec{Helvetica Light}\fontsize{16pt}{22pt}\selectfont \raggedright\uppercase}{} {0em}{}
+\scshape\fontspec{Helvetica Light}\fontsize{16pt}{24pt}\selectfont \raggedright\uppercase}{} {0em}{}
 
-% Subheadings command
+% Subeadings command
 \titleformat{\subsection}{\color{subheadings}
 \fontspec{Helvetica}\fontsize{12pt}{12pt}\selectfont\bfseries\uppercase}{}{0em}{}
 \titlespacing{\subsection}{0pt}{\parskip}{-\parskip}
