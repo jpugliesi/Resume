@@ -92,4 +92,4 @@ sympy-plots-for-*.tex/
 *.xdy
 
 #Vim
-.swp
+*.swp
