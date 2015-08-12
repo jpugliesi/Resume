@@ -36,8 +36,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{John}{Pugliesi}{ \urlstyle{same}\url{github.com/jpugliesi} \\
-\href{mailto:pugliesi@usc.edu}{pugliesi@usc.edu} | 510.260.5313
-}
+\href{mailto:pugliesi@usc.edu}{pugliesi@usc.edu} | 510.260.5313 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -53,11 +52,11 @@
 
 \section{Education} 
 
-\subsection{University of} % Seperate on 2 lines to fit nicely
+\subsection{University of} % Separate on 2 lines to fit nicely
 \subsection{Southern California}
 \descript{BS in Computer Science/Business Administration}
 \location{May 2017 | Los Angeles, CA}
-\location{ GPA: 3.89 / 4.0 }
+\location{ GPA: 3.92 / 4.0 }
 \sectionsep
 Minor in Music Recording\\
 Viterbi School of Engineering \\
@@ -113,8 +112,6 @@ regex \textbullet{} Android \textbullet{} \LaTeX\ \\
 FileMaker \textbullet{} Android Studio \\
 Microsoft Office \textbullet{} Pro Tools \\
 Bloomberg \textbullet{} FactSet \\
-thinkorswim \\
-
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -133,15 +130,26 @@ thinkorswim \\
 
 \section{Experience}
 
-\runsubsection{University of Southern California Investment Office} \\
-\descript{Investment Analyst Intern }
-\location{August 2014 – Present | Los Angeles, CA}
+\runsubsection{Albourne Partners} \\
+\descript{Dynamic Beta Summer Analyst}
+\location{June 2015 – August 2015 | San Francisco, CA }
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Performed a weekly Asset Allocation, estimating the \$4 Billion Endowment portfolio's Month-to-Date performance
+\item Implemented investable, quantitative indices using python
+\item Performed data analysis and backtesting on investable index models to assess strategy risk and robustness
+\item Contributed quantitative insight to advisory risk reports utilized by over 40 clients
+\item Developed a liquidity analysis report to assist in evaluating the commodity futures market
+\end{tightemize}
+\sectionsep
+
+\runsubsection{USC Investment Office} \\
+\descript{Investment Analyst Intern }
+\location{August 2014 – Present | Los Angeles, CA}
+\begin{tightemize}
+\item Performed a weekly asset allocation, estimating the \$4 Billion University of Southern California Endowment portfolio's month-to-date performance
 \item Wrote Excel VBA Macros for a long term project analyzing fund manager correspondence and portfolio performance data
-\item Research, analyze, and compile information on securities, funds, and other pertinent data for Analyst review
-\item Record and Compile notes during, and after Fund Manager Meetings
+\item Research, aggregate, and analyze information on securities, funds, and other pertinent data for Analyst review
+\item Record, compile, and edit notes for fund manager meetings
 \end{tightemize}
 \sectionsep
 
@@ -152,8 +160,6 @@ thinkorswim \\
 \item Co-Developed an MVP for an e-commerce Ruby on Rails website within an agile team
 \item Extended and utilized the open source Spree Commerce Rails platform
 \item Implemented AJAX for dynamic web pages within the Rails application
-\item Developed algorithms for displaying and updating product information
-\item Designed Web pages with Twitter Bootstrap 3
 \end{tightemize}
 \sectionsep
 
@@ -161,49 +167,48 @@ thinkorswim \\
 \descript{Web Design and Database Assistant}
 \location{February 2014 – May 2014 | Los Angeles, CA}
 \begin{tightemize}
-\item Designed webpages for The Great Shakeout (shakeout.org) and other SCEC operated websites
-\item Manage and Maintain SCEC database for affiliated websites using FileMaker Pro, creating
-scripts and calculations for more advanced database functionality
-\item Utilize php and FX.php library to dynamically display FileMaker database content on the
-shakeout.org website
-\end{tightemize}
+\item Designed web pages and managed databases for The Great Shakeout (shakeout.org) and other SCEC operated websites
+\end{tightemize}
 \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Awards
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Old awards section, keeping this hear for formatting reference down the line
+%
+%\section{Leadership} 
+%\begin{tabular}{rll}
+%&2015   & \textbf{Clarion Labs}  | Co-Founder \\
+%        & Selected out of 108 Mandarin students based on competency and \\
+%        & effort in learning the Mandarin language\\
+%\end{tabular}
+%&\sectionsep
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Professional Involvement
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Professional Involvement}
+
+\runsubsection{Clarion Labs} \\
+\descript{Pro-bono Consultant for the USC Department of Public Safety}
+\location{March 2015 – Present}
+Clarion Labs is a group of students working with USC's Department of Public Safety to provide statistical insights into crime data, enhance crime reporting structures, and promote campus awareness of local crime
+\sectionsep
+
 \runsubsection{Association for Computing Machinery} \\
 \descript{University of Southern California ACM Chapter}
-\location{August 2013 – Present | Los Angeles, CA}
-Active Member of ACM participating in hackathons and developer tutorials, among other opportunities
+\location{August 2013 – Present}
+Active member participating in hackathons and other educational opportunities
 \sectionsep
 
 \runsubsection{Audio Engineering Society} \\
-\descript{Los Angeles Section, CA}
+\descript{Los Angeles Section}
 \location{October 2014 - Present}
-Student member of the Audio Engineering Society, disseminating and advancing knowledge in the 
-realm of audio engineering
-\sectionsep
-
-\runsubsection{Phi Kappa Phi National Honors Society} \\
-\descript{University of Southern California}
-\location{May 2014 – Present | Los Angeles, CA}
-Top 8th percentile of the USC Class of 2017
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Awards} 
-\begin{tabular}{rll}
-2013         & \textbf{Mandarin Student of the Year}  | Miramonte Mandarin Program \\
-         & Selected out of 108 Mandarin students based on competency and \\
-         & effort in learning the Mandarin language\\
-\end{tabular}
+Student member of the Audio Engineering Society
 \sectionsep
 
 \end{minipage} 
-\end{document}  \documentclass[]{article}
+\end{document}  
