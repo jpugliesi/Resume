@@ -195,19 +195,25 @@ Bloomberg \textbullet{} FactSet \\
 \runsubsection{Clarion Labs} \\
 \descript{Pro-bono Consultant for the USC Department of Public Safety}
 \location{March 2015 – Present}
-Clarion Labs is a group of students working with USC's Department of Public Safety to provide statistical insights into crime data, enhance crime reporting structures, and promote campus awareness of local crime
+\begin{tightemize}
+\item Clarion Labs is a group of students working with USC's Department of Public Safety to provide statistical insights into crime data, enhance crime reporting structures, and promote campus awareness of local crime
+\end{tightemize}
 \sectionsep
 
 \runsubsection{Association for Computing Machinery} \\
 \descript{University of Southern California ACM Chapter}
 \location{August 2013 – Present}
-Active member participating in hackathons and other educational opportunities
+\begin{tightemize}
+\item Active member participating in hackathons and other educational opportunities
+\end{tightemize}
 \sectionsep
 
 \runsubsection{Audio Engineering Society} \\
 \descript{Los Angeles Section}
 \location{October 2014 - Present}
-Student member of the Audio Engineering Society
+\begin{tightemize}
+\item Student member of the Audio Engineering Society
+\end{tightemize}
 \sectionsep
 
 \end{minipage} 
