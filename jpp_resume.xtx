@@ -64,15 +64,6 @@ Dean's List (All Semesters) \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Links} 
-Github:// \href{https://github.com/jpugliesi}{\bf jpugliesi} \\
-LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -97,7 +88,7 @@ Foundations of Accounting \\
 \subsection{Programming}
 \location{Over 5000 lines:}
 C++ \textbullet{} Java  \\
-Python (and Django) \textbullet{} HTML \\ 
+python (and Django) \textbullet{} HTML \\ 
 \sectionsep
 \location{Over 1000 lines:}
 ruby (and Rails) \textbullet{} Javascript \\
@@ -109,9 +100,19 @@ regex \textbullet{} Android \textbullet{} \LaTeX\ \\
 \sectionsep
 
 \subsection{Software}
-FileMaker \textbullet{} Android Studio \\
-Microsoft Office \textbullet{} Pro Tools \\
 Bloomberg \textbullet{} FactSet \\
+FileMaker \textbullet{} Android Studio \\
+Pro Tools \\
+
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links} 
+Github:// \href{https://github.com/jpugliesi}{\bf jpugliesi} \\
+LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -148,8 +149,8 @@ Bloomberg \textbullet{} FactSet \\
 \begin{tightemize}
 \item Performed a weekly asset allocation, estimating the \$4 Billion University of Southern California Endowment portfolio's month-to-date performance
 \item Wrote Excel VBA Macros for a long term project analyzing fund manager correspondence and portfolio performance data
-\item Research, aggregate, and analyze information on securities, funds, and other pertinent data for Analyst review
-\item Record, compile, and edit notes for fund manager meetings
+\item Research, aggregate, and analyze information on securities, funds, and other pertinent data for Analysts to review
+\item Record, compile, and edit notes for Fund Manager meetings
 \end{tightemize}
 \sectionsep
 
@@ -187,16 +188,24 @@ Bloomberg \textbullet{} FactSet \\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Professional Involvement
+%     Involvement
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Professional Involvement}
+\section{Leadership \& Involvement}
+
+\runsubsection{USC Hyperloop} \\
+\descript{Software Team - SpaceX Hyperloop Pod Competition}
+\location{September 2015 – Present}
+\begin{tightemize}
+\item Design and implement software architecture for a high-speed ground transportation system
+\end{tightemize}
+\sectionsep
 
 \runsubsection{Clarion Labs} \\
-\descript{Pro-bono Consultant for the USC Department of Public Safety}
+\descript{Co-Founder, Pro-bono Consultant for the USC Department of Public Safety}
 \location{March 2015 – Present}
 \begin{tightemize}
-\item Clarion Labs is a group of students working with USC's Department of Public Safety to provide statistical insights into crime data, enhance crime reporting structures, and promote campus awareness of local crime
+\item Provide USC's Department of Public Safety with statistical insights into crime data and reporting methods, while promoting campus awareness of local crime
 \end{tightemize}
 \sectionsep
 
@@ -205,14 +214,6 @@ Bloomberg \textbullet{} FactSet \\
 \location{August 2013 – Present}
 \begin{tightemize}
 \item Active member participating in hackathons and other educational opportunities
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Audio Engineering Society} \\
-\descript{Los Angeles Section}
-\location{October 2014 - Present}
-\begin{tightemize}
-\item Student member of the Audio Engineering Society
 \end{tightemize}
 \sectionsep
 
