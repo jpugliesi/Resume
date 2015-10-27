@@ -69,6 +69,7 @@ Dean's List (All Semesters) \\
 
 \section{Coursework}
 Principles of Software Development \\
+Algorithms \\
 Data Structures and Object-Oriented \\
 \hspace{1em} Design \\
 Discrete Methods in Computer Science \\
@@ -102,7 +103,8 @@ regex \textbullet{} Android \textbullet{} \LaTeX\ \\
 \subsection{Software}
 Bloomberg \textbullet{} FactSet \\
 FileMaker \textbullet{} Android Studio \\
-Pro Tools \\
+Pro Tools \textbullet{} Logic Pro X \\
+Xilinx \\ 
 
 \sectionsep
 
@@ -136,8 +138,8 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \location{June 2015 – August 2015 | San Francisco, CA }
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Implemented investable, quantitative indices using python
-\item Performed data analysis and backtesting on investable index models to assess strategy risk and robustness
+\item Implemented investable, quantitative index models using python
+\item Performed data analysis and backtesting on models to assess strategy risk and robustness
 \item Contributed quantitative insight to advisory risk reports utilized by over 40 clients
 \item Developed a liquidity analysis report to assist in evaluating the commodity futures market
 \end{tightemize}
@@ -148,9 +150,9 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \location{August 2014 – Present | Los Angeles, CA}
 \begin{tightemize}
 \item Performed a weekly asset allocation, estimating the \$4 Billion University of Southern California Endowment portfolio's month-to-date performance
-\item Wrote Excel VBA Macros for a long term project analyzing fund manager correspondence and portfolio performance data
+\item Developed a private equity cash flow forecasting model, which has been adopted across the organization for informing more robust valuation projections and investment decisions
+\item Wrote Excel VBA macros for a long-term project analyzing fund manager correspondence and portfolio performance data
 \item Research, aggregate, and analyze information on securities, funds, and other pertinent data for Analysts to review
-\item Record, compile, and edit notes for Fund Manager meetings
 \end{tightemize}
 \sectionsep
 
@@ -159,7 +161,7 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \location{May 2014 – August 2014 | Boston, MA (Remote) }
 \begin{tightemize}
 \item Co-Developed an MVP for an e-commerce Ruby on Rails website within an agile team
-\item Extended and utilized the open source Spree Commerce Rails platform
+\item Extended the open source Spree Commerce Rails platform
 \item Implemented AJAX for dynamic web pages within the Rails application
 \end{tightemize}
 \sectionsep
@@ -197,7 +199,8 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \descript{Software Team - SpaceX Hyperloop Pod Competition}
 \location{September 2015 – Present}
 \begin{tightemize}
-\item Design and implement software architecture for a high-speed ground transportation system
+\item Contributing to the design and implementation of software architecture for a high-speed ground transportation system
+\item Develop data acquisition and transmission tasks in C++ on VxWorks, executed by the pod's onboard computer
 \end{tightemize}
 \sectionsep
 
@@ -206,14 +209,6 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \location{March 2015 – Present}
 \begin{tightemize}
 \item Provide USC's Department of Public Safety with statistical insights into crime data and reporting methods, while promoting campus awareness of local crime
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Association for Computing Machinery} \\
-\descript{University of Southern California ACM Chapter}
-\location{August 2013 – Present}
-\begin{tightemize}
-\item Active member participating in hackathons and other educational opportunities
 \end{tightemize}
 \sectionsep
 
