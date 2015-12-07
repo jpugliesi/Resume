@@ -200,7 +200,7 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \location{September 2015 – Present}
 \begin{tightemize}
 \item Contributing to the design and implementation of software architecture for a high-speed ground transportation system
-\item Develop data acquisition and transmission tasks in C++ on VxWorks, executed by the pod's onboard computer
+\item Develop critical flight control tasks in C/C++ for the National Instruments Real-Time Linux OS, executed by the pod's onboard computer
 \end{tightemize}
 \sectionsep
 
