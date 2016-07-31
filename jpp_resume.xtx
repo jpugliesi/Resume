@@ -91,20 +91,19 @@ Macroeconomics for Business \\
 \subsection{Programming}
 \location{Over 5000 lines:}
 C++ \textbullet{} Java  \\
-python (and Django) \textbullet{} HTML \\ 
+python (and Django) \textbullet{} Javascript \\ 
 \sectionsep
 \location{Over 1000 lines:}
-ruby (and Rails) \textbullet{} Javascript \\
-CSS \textbullet{} PHP \\
+R \textbullet{} ruby (and Rails) \\
+HTML \textbullet{} CSS \\
 \sectionsep
 \location{Familiar:}
 MySQL \textbullet{} NoSQL \\
-regex \textbullet{} Android \textbullet{} \LaTeX\ \\
+regex \textbullet{} \LaTeX\ \\
 \sectionsep
 
 \subsection{Software}
 Bloomberg \textbullet{} FactSet \\
-FileMaker \textbullet{} Android Studio \\
 Pro Tools \textbullet{} Logic Pro X \\
 Xilinx \\ 
 
