@@ -134,15 +134,26 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 
 \section{Experience}
 
+\runsubsection{Nike, Inc.} \\
+\descript{Application Engineer Intern}
+\location{June 2016 - August 2016 | Beaverton, OR}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Contributed towards development of Nike’s global inventory forecasting application - vanilla.js front-end app, node.js and Java/Jersey back-end microservices, developed in a SCRUM workflow with a continuous delivery pipeline
+\item Completed a long-term project developing an inventory planning calendar microservice - Designed and implemented a RESTful API with Java/Spring, AWS DynamoDB datastore, and containerized with Docker
+\item Wrote unit and integration tests for front- and back-end applications in javascript (Mocha, Chai, Sinon) and Java (JUnit)
+\item Collaboratively created a personalized, proximity-based in-store consumer experience that won the Nike Digital Intern Hackathon
+\end{tightemize}
+\sectionsep
+
 \runsubsection{Albourne Partners} \\
 \descript{Dynamic Beta Summer Analyst}
 \location{June 2015 – August 2015 | San Francisco, CA }
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Implemented investable, quantitative index models using python
 \item Performed data analysis and backtesting on models to assess strategy risk and robustness
 \item Contributed quantitative insight to advisory risk reports utilized by over 40 clients
-\item Developed a liquidity analysis report to assist in evaluating the commodity futures market
 \end{tightemize}
 \sectionsep
 
@@ -150,28 +161,9 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \descript{Investment Analyst Intern }
 \location{August 2014 – Present | Los Angeles, CA}
 \begin{tightemize}
-\item Performed a weekly asset allocation, estimating the \$4 Billion University of Southern California Endowment portfolio's month-to-date performance
-\item Developed a private equity cash flow forecasting model, which has been adopted across the organization for informing more robust valuation projections and investment decisions
+\item Performed a weekly asset allocation, estimating the \$4.7 Billion University of Southern California Endowment portfolio's month-to-date performance
+\item Developed a now-adopted private equity cash flow forecasting model based on investment multiples
 \item Wrote Excel VBA macros for a long-term project analyzing fund manager correspondence and portfolio performance data
-\item Research, aggregate, and analyze information on securities, funds, and other pertinent data for Analysts to review
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Whaddy} \\
-\descript{Software Engineering \& Web Development Intern }
-\location{May 2014 – August 2014 | Boston, MA (Remote) }
-\begin{tightemize}
-\item Co-Developed an MVP for an e-commerce Ruby on Rails website within an agile team
-\item Extended the open source Spree Commerce Rails platform
-\item Implemented AJAX for dynamic web pages within the Rails application
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Southern California Earthquake Center} \\
-\descript{Web Design and Database Assistant}
-\location{February 2014 – May 2014 | Los Angeles, CA}
-\begin{tightemize}
-\item Designed web pages and managed databases for The Great Shakeout (shakeout.org) and other SCEC operated websites
 \end{tightemize}
 \sectionsep
 
@@ -188,7 +180,6 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 %        & effort in learning the Mandarin language\\
 %\end{tabular}
 %&\sectionsep
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Involvement
