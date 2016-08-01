@@ -35,7 +35,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{John}{Pugliesi}{ \urlstyle{same}\url{github.com/jpugliesi} \\
+\namesection{John}{Pugliesi}{ \href{http://github.com/jpugliesi}{github.com/jpugliesi} \\
 \href{mailto:pugliesi@usc.edu}{pugliesi@usc.edu} | 510.260.5313 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -139,8 +139,8 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \location{June 2016 - August 2016 | Beaverton, OR}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Contributed towards development of Nike’s global inventory forecasting application - vanilla.js front-end app, node.js and Java/Jersey back-end microservices, developed in a SCRUM workflow with a continuous delivery pipeline
-\item Completed a long-term project developing an inventory planning calendar microservice - Designed and implemented a RESTful API with Java/Spring, AWS DynamoDB datastore, and containerized with Docker
+\item Contributed towards development of Nike’s global inventory forecasting application - vanilla.js front-end app, node.js and Java/Jersey microservices, in a SCRUM workflow with a continuous delivery pipeline
+\item Completed a long-term project developing an retail planning calendar microservice - Designed and implemented a RESTful API with Java/Spring, AWS DynamoDB datastore, and containerized with Docker
 \item Wrote unit and integration tests for front- and back-end applications in javascript (Mocha, Chai, Sinon) and Java (JUnit)
 \item Collaboratively created a personalized, proximity-based in-store consumer experience that won the Nike Digital Intern Hackathon
 \end{tightemize}
@@ -153,7 +153,7 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \begin{tightemize}
 \item Implemented investable, quantitative index models using python
 \item Performed data analysis and backtesting on models to assess strategy risk and robustness
-\item Contributed quantitative insight to advisory risk reports utilized by over 40 clients
+\item Contributed quantitative insight to advisory reports for over 40 clients
 \end{tightemize}
 \sectionsep
 
@@ -163,7 +163,7 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \begin{tightemize}
 \item Performed a weekly asset allocation, estimating the \$4.7 Billion University of Southern California Endowment portfolio's month-to-date performance
 \item Developed a now-adopted private equity cash flow forecasting model based on investment multiples
-\item Wrote Excel VBA macros for a long-term project analyzing fund manager correspondence and portfolio performance data
+\item Wrote Excel VBA macros to expedite numerous analytical tasks 
 \end{tightemize}
 \sectionsep
 
