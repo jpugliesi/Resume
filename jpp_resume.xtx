@@ -96,12 +96,12 @@ python (and Django) \textbullet{} Javascript \\
 \location{Over 1000 lines:}
 R \textbullet{} ruby (and Rails) \\
 HTML \textbullet{} CSS \\
-\sectionsep
 \location{Familiar:}
-MySQL \textbullet{} NoSQL \\
 regex \textbullet{} \LaTeX\ \\
 \sectionsep
-
+\subsection{Databases}
+SQL \textbullet{} DynamoDB \\
+\sectionsep
 \subsection{Software}
 Bloomberg \textbullet{} FactSet \\
 Pro Tools \textbullet{} Logic Pro X \\
