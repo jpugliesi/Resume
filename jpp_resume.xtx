@@ -105,11 +105,11 @@ SQL $\cdot$ DynamoDB \\
 \subsubsection{Server Technologies}
 Docker $\cdot$ AWS \\
 \sectionsep
+\subsubsection{Automated Build}
+Jenkins $\cdot$ Continuous Delivery
+\sectionsep
 \subsubsection{Software Development}
 Agile $\cdot$ SCRUM $\cdot$ gitflow $\cdot$ JIRA \\
-\sectionsep
-\subsubsection{Automated Build}
-Jenkins $\cdot$ Continuous Deployment
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
