@@ -200,20 +200,21 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \end{tightemize}
 \sectionsep
 
+\runsubsection{Los Angeles Technical Consulting Hub} \\
+\descript{Chief Engineering Director}
+\location{September 2015 – Present}
+\begin{tightemize}
+\item Managed pro-bono technical consulting projects with local businesses 
+\item Coordinated philanthropic and educational events to promote interest in computer science among local youth
+\end{tightemize}
+\sectionsep
+
 \runsubsection{USC Hyperloop} \\
 \descript{Software Team - SpaceX Hyperloop Pod Competition}
 \location{September 2015 – Present}
 \begin{tightemize}
 \item Designed and implemented software architecture for a high-speed ground transportation system
 \item Develop critical flight control tasks in C/C++ for the National Instruments Real-Time Linux OS
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Clarion Labs} \\
-\descript{Co-Founder, Pro-bono Consultant at USC Department of Public Safety (DPS)}
-\location{March 2015 – May 2016}
-\begin{tightemize}
-\item Provide USC's DPS with crime statistics and reporting methods, while promoting campus awareness of local crime
 \end{tightemize}
 \sectionsep
 
