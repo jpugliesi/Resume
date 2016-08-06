@@ -190,6 +190,16 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 
 \section{Leadership \& Involvement}
 
+\runsubsection{Brain Body Dynamics Lab} \\
+\descript{Research Intern}
+\location{May 2016 - Present}
+\begin{tightemize}
+\item Led a team of 12 research interns 
+\item Co-developed a robotic learning algorithm to control a human cadaveric hand by its muscles
+\item Designed a python REST API to control, and expose output data from, a human cadaveric hand
+\end{tightemize}
+\sectionsep
+
 \runsubsection{USC Hyperloop} \\
 \descript{Software Team - SpaceX Hyperloop Pod Competition}
 \location{September 2015 – Present}
