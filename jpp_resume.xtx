@@ -213,8 +213,8 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \descript{Software Team - SpaceX Hyperloop Pod Competition}
 \location{September 2015 – Present}
 \begin{tightemize}
-\item Designed and implemented software architecture for a high-speed ground transportation system
-\item Develop critical flight control tasks in C/C++ for the National Instruments Real-Time Linux OS
+\item Designed software architecture for a high-speed transportation system
+\item Implemented critical flight control tasks in C/C++ for the National Instruments Real-Time Linux OS
 \end{tightemize}
 \sectionsep
 
