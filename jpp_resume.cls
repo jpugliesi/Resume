@@ -65,7 +65,7 @@ Last Updated on
 \fontspec{Helvetica Neue Light}\fontsize{10pt}{10pt}\selectfont\bfseries\uppercase}{}{0em}{}
 \titlespacing{\subsubsection}{0pt}{\parskip}{-\parskip}
 \newcommand{\runsubsection}[1]{\color{subheadings}
-\fontspec{Helvetica Neue}\fontsize{12pt}{12pt}\selectfont\bfseries\uppercase {#1} \normalfont}
+\fontspec{Helvetica Neue}\fontsize{12pt}{12pt}\selectfont\bfseries\uppercase {#1} \normalfont\vspace{1pt}}
 
 % Descriptors command
 \newcommand{\descript}[1]{\color{subheadings}\raggedright\scshape\fontspec{Helvetica Neue}\fontsize{10pt}{10pt}\selectfont {#1 \\} \normalfont}
