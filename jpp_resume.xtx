@@ -142,10 +142,10 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \location{June 2016 - August 2016 | Beaverton, OR}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Contributed towards development of Nike’s global inventory forecasting application - vanilla.js front-end app, node.js and Java/Jersey microservices
-\item Completed a long-term project developing an retail planning calendar microservice - Java/Spring RESTful API, DynamoDB datastore, containerized with Docker
+\item Developed Nike’s global demand forecasting application - vanilla.js front-end app, node.js and Java/Jersey microservices
+\item Completed a long-term project developing a demand forecast scheduling microservice - Java/Spring REST API, DynamoDB datastore, containerized with Docker
 \item Wrote unit and integration tests for front- and back-end applications in javascript (Mocha, Chai, Sinon) and Java (JUnit)
-\item Collaboratively created a personalized, proximity-based in-store consumer experience that won the Nike Digital Intern Hackathon
+\item Collaboratively created a personalized, proximity-based, in-store consumer experience that won the Nike Digital Intern Hackathon
 \end{tightemize}
 \sectionsep
 
