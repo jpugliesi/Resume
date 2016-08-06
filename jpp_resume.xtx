@@ -88,26 +88,25 @@ Macroeconomics for Business \\
 
 \section{Skills}
 
-\subsection{Programming}
+\subsubsection{Programming}
 \location{Over 5000 lines:}
-C++ \textbullet{} Java  \\
-python (and Django) \textbullet{} Javascript \\ 
+C++ $\cdot$ Java  \\
+python $\cdot$ Javascript \\ 
 \sectionsep
 \location{Over 1000 lines:}
-R \textbullet{} ruby (and Rails) \\
-HTML \textbullet{} CSS \\
+R $\cdot$ ruby (and Rails) \\
+\sectionsep
 \location{Familiar:}
-regex \textbullet{} \LaTeX\ \\
+regex $\cdot$ \LaTeX\ \\
 \sectionsep
-\subsection{Databases}
-SQL \textbullet{} DynamoDB \\
+\subsubsection{Databases}
+SQL $\cdot$ DynamoDB \\
 \sectionsep
-\subsection{Software}
-Bloomberg \textbullet{} FactSet \\
-Pro Tools \textbullet{} Logic Pro X \\
-Xilinx \\ 
-
+\subsubsection{Server Technologies}
+Docker $\cdot$ AWS $\cdot$ Jenkins \\
 \sectionsep
+\subsubsection{Software Development}
+Agile $\cdot$ SCRUM $\cdot$ gitflow $\cdot$ JIRA \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS

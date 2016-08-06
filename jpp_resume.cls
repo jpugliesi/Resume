@@ -1,5 +1,5 @@
 % Intro Options
-\ProvidesClass{jpp_resume}[2014/04/30 CV class]
+\ProvidesClass{jpp_resume}[2016/08/05 CV class]
 \NeedsTeXFormat{LaTeX2e}
 \DeclareOption{print}{\def\@cv@print{}}
 \DeclareOption*{
@@ -61,6 +61,8 @@ Last Updated on
 \titleformat{\subsection}{\color{subheadings}
 \fontspec{Helvetica Neue Light}\fontsize{12pt}{12pt}\selectfont\bfseries\uppercase}{}{0em}{}
 \titlespacing{\subsection}{0pt}{\parskip}{-\parskip}
+\titleformat{\subsubsection}{\color{subheadings}
+\fontspec{Helvetica Neue Light}\fontsize{10pt}{10pt}\selectfont\bfseries\uppercase}{}{0em}{}
 \titlespacing{\subsubsection}{0pt}{\parskip}{-\parskip}
 \newcommand{\runsubsection}[1]{\color{subheadings}
 \fontspec{Helvetica Neue}\fontsize{12pt}{12pt}\selectfont\bfseries\uppercase {#1} \normalfont}
