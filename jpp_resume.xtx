@@ -204,14 +204,14 @@ LinkedIn://  \href{https://www.linkedin.com/in/jpugliesi}{\bf jpugliesi} \\
 \descript{Software Team - SpaceX Hyperloop Pod Competition}
 \location{September 2015 – Present}
 \begin{tightemize}
-\item Contributing to the design and implementation of software architecture for a high-speed ground transportation system
-\item Develop critical flight control tasks in C/C++ for the National Instruments Real-Time Linux OS, executed by the pod's onboard computer
+\item Designed and implemented software architecture for a high-speed ground transportation system
+\item Develop critical flight control tasks in C/C++ for the National Instruments Real-Time Linux OS
 \end{tightemize}
 \sectionsep
 
 \runsubsection{Clarion Labs} \\
 \descript{Co-Founder, Pro-bono Consultant at USC Department of Public Safety (DPS)}
-\location{March 2015 – Present}
+\location{March 2015 – May 2016}
 \begin{tightemize}
 \item Provide USC's DPS with crime statistics and reporting methods, while promoting campus awareness of local crime
 \end{tightemize}
